@@ -15,7 +15,9 @@ import kimetsu from './assets/img/projects/kimetsu.png'
 import doctor from './assets/img/projects/doctorstrange.PNG'
 import imc from './assets/img/projects/android.jpg'
 import zeroWaste from './assets/img/projects/zero-waste.png'
-import pizza from './assets/img/projects/pizza.jpg'
+import zerowaste_front from './assets/img/projects/zerowaste-front.png'
+import zerowaste_logistic from './assets/img/projects/zero-waste-logistic.png'
+import pizza_joy from './assets/img/projects/pizza-joy.png'
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -70,37 +72,57 @@ export const projectsData = [
     image: pokedex,
     name: 'Pokedex',
     category: 'front-end',
+    link: 'https://github.com/lidiagaldino/pokedex'
   },
   {
     id: '2',
     image: kimetsu,
     name: 'Kimetsu no Yaiba',
     category: 'front-end',
+    link: 'https://github.com/lidiagaldino/kimetsu-no-yaiba'
   },
   {
     id: '3',
     image: doctor,
     name: 'Doctor Strange',
     category: 'front-end',
+    link: 'https://github.com/lidiagaldino/doctor-strange'
   },
   {
     id: '4',
     image: imc,
     name: 'IMC Calculator',
     category: 'android',
+    link: 'https://github.com/lidiagaldino/imc-android'
   },
   {
     id: '5',
     image: zeroWaste,
     name: 'API Zero Waste',
     category: 'back-end',
+    link: 'https://github.com/lidiagaldino/api-zero-waste'
   },
   {
     id: '6',
-    image: pizza,
-    name: 'API Pessego Pizza',
+    image: zerowaste_logistic,
+    name: 'API Zero Waste Logistic',
     category: 'back-end',
+    link: 'https://github.com/lidiagaldino/zero-waste-logistic'
   },
+  {
+    id: '7',
+    image: zerowaste_front,
+    name: 'Zero Waste Front-End Web',
+    category: 'front-end',
+    link: 'https://github.com/lidiagaldino/ZEROWASTE-WEB'
+  },
+  {
+    id: '8',
+    image: pizza_joy,
+    name: 'Pizza Joy Back-End (microservices)',
+    category: 'back-end',
+    link: 'https://github.com/lidiagaldino/back-end-pizza-joy'
+  }
 ];
 
 // projects

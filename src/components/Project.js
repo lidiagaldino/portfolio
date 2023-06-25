@@ -1,8 +1,12 @@
 import React from 'react'
 
 const Project = ({ item }) => {
+    const handleClick = () => {
+        window.open(item.link)
+    }
+
     return (
-        <div key={item.id} className='flex flex-col items-center text-center'>
+        <div onClick={handleClick} key={item.id} className='flex flex-col items-center text-center'>
             <div className='mb-8'>
                 <img className='rounded-2x1' src={item.image} alt=''></img>
             </div>

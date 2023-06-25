@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.08171e91.css",
-    "main.js": "/portfolio/static/js/main.53932c35.js",
+    "main.css": "/portfolio/static/css/main.ccb0bd86.css",
+    "main.js": "/portfolio/static/js/main.d31ef942.js",
     "static/media/doctorstrange.PNG": "/portfolio/static/media/doctorstrange.67380d5c7dc99be965e7.PNG",
     "static/media/catPic.png": "/portfolio/static/media/catPic.21207760fbff7b54d597.png",
     "static/media/kimetsu.png": "/portfolio/static/media/kimetsu.45132f77eb1c99a7046a.png",
+    "static/media/pizza-joy.png": "/portfolio/static/media/pizza-joy.48536b97701653bb4000.png",
+    "static/media/zerowaste-front.png": "/portfolio/static/media/zerowaste-front.4436953f40588c20e946.png",
     "static/media/cat.png": "/portfolio/static/media/cat.bd7d4cc2dc1d1498807d.png",
+    "static/media/zero-waste-logistic.png": "/portfolio/static/media/zero-waste-logistic.10c668d0f99433e48c45.png",
     "static/media/pokedex.PNG": "/portfolio/static/media/pokedex.c91552d95cc9f21e9139.PNG",
     "static/media/zero-waste.png": "/portfolio/static/media/zero-waste.32e2b21bc6f26bb0fe0e.png",
-    "static/media/logo.svg": "/portfolio/static/media/logo.730b9593a807c8f2dd2bebe59c782a81.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.26fe4f211ecde5f737f086cb4c22d1bf.svg",
     "static/media/typescript.png": "/portfolio/static/media/typescript.52ea0bc40ba11d507e7d.png",
-    "static/media/pizza.jpg": "/portfolio/static/media/pizza.e7e2bde3d0f5f195f953.jpg",
-    "static/media/courses.svg": "/portfolio/static/media/courses.5617abbfac89e0f24c1a.svg",
-    "static/media/portfolio.svg": "/portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
-    "static/media/about.svg": "/portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "static/media/courses.svg": "/portfolio/static/media/courses.7aeb656941d1145cf143.svg",
+    "static/media/portfolio.svg": "/portfolio/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/about.svg": "/portfolio/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/portfolio/index.html",
-    "main.08171e91.css.map": "/portfolio/static/css/main.08171e91.css.map",
-    "main.53932c35.js.map": "/portfolio/static/js/main.53932c35.js.map"
+    "main.ccb0bd86.css.map": "/portfolio/static/css/main.ccb0bd86.css.map",
+    "main.d31ef942.js.map": "/portfolio/static/js/main.d31ef942.js.map"
   },
   "entrypoints": [
-    "static/css/main.08171e91.css",
-    "static/js/main.53932c35.js"
+    "static/css/main.ccb0bd86.css",
+    "static/js/main.d31ef942.js"
   ]
 }
